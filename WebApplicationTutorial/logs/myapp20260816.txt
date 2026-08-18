@@ -1,0 +1,46 @@
+2026-08-16 23:19:23.030 +03:00 [INF] Now listening on: http://localhost:8080
+2026-08-16 23:19:23.071 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-08-16 23:19:23.071 +03:00 [INF] Hosting environment: Development
+2026-08-16 23:19:23.072 +03:00 [INF] Content root path: D:\SoftwareEngineering\Projects\c#\WebApplicationTutorial\WebApplicationTutorial
+2026-08-16 23:19:28.424 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/api/products - null null
+2026-08-16 23:19:28.463 +03:00 [INF] Executing endpoint 'MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial)'
+2026-08-16 23:19:28.476 +03:00 [INF] Route matched with {action = "GetAll", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller MyApi.Controllers.ProductsController (WebApplicationTutorial).
+2026-08-16 23:19:28.484 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApplicationTutorial.Models.Product, WebApplicationTutorial, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-08-16 23:19:28.496 +03:00 [INF] Executed action MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial) in 14.5552ms
+2026-08-16 23:19:28.499 +03:00 [INF] Executed endpoint 'MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial)'
+2026-08-16 23:19:28.502 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/api/products - 200 null application/json; charset=utf-8 83.1177ms
+2026-08-16 23:19:28.957 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/api/products - null null
+2026-08-16 23:19:28.961 +03:00 [INF] Executing endpoint 'MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial)'
+2026-08-16 23:19:28.963 +03:00 [INF] Route matched with {action = "GetAll", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller MyApi.Controllers.ProductsController (WebApplicationTutorial).
+2026-08-16 23:19:28.965 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApplicationTutorial.Models.Product, WebApplicationTutorial, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-08-16 23:19:28.966 +03:00 [INF] Executed action MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial) in 1.744ms
+2026-08-16 23:19:28.968 +03:00 [INF] Executed endpoint 'MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial)'
+2026-08-16 23:19:28.970 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/api/products - 200 null application/json; charset=utf-8 14.5338ms
+2026-08-16 23:19:29.161 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/api/products - null null
+2026-08-16 23:19:29.165 +03:00 [INF] Executing endpoint 'MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial)'
+2026-08-16 23:19:29.166 +03:00 [INF] Route matched with {action = "GetAll", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller MyApi.Controllers.ProductsController (WebApplicationTutorial).
+2026-08-16 23:19:29.168 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApplicationTutorial.Models.Product, WebApplicationTutorial, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-08-16 23:19:29.170 +03:00 [INF] Executed action MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial) in 1.86ms
+2026-08-16 23:19:29.171 +03:00 [INF] Executed endpoint 'MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial)'
+2026-08-16 23:19:29.172 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/api/products - 200 null application/json; charset=utf-8 11.3183ms
+2026-08-16 23:19:29.350 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/api/products - null null
+2026-08-16 23:19:29.352 +03:00 [INF] Executing endpoint 'MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial)'
+2026-08-16 23:19:29.354 +03:00 [INF] Route matched with {action = "GetAll", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller MyApi.Controllers.ProductsController (WebApplicationTutorial).
+2026-08-16 23:19:29.355 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApplicationTutorial.Models.Product, WebApplicationTutorial, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-08-16 23:19:29.357 +03:00 [INF] Executed action MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial) in 1.9724ms
+2026-08-16 23:19:29.359 +03:00 [INF] Executed endpoint 'MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial)'
+2026-08-16 23:19:29.360 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/api/products - 200 null application/json; charset=utf-8 10.5259ms
+2026-08-16 23:19:29.529 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/api/products - null null
+2026-08-16 23:19:29.532 +03:00 [INF] Executing endpoint 'MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial)'
+2026-08-16 23:19:29.533 +03:00 [INF] Route matched with {action = "GetAll", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller MyApi.Controllers.ProductsController (WebApplicationTutorial).
+2026-08-16 23:19:29.535 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApplicationTutorial.Models.Product, WebApplicationTutorial, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-08-16 23:19:29.536 +03:00 [INF] Executed action MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial) in 1.4416ms
+2026-08-16 23:19:29.538 +03:00 [INF] Executed endpoint 'MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial)'
+2026-08-16 23:19:29.539 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/api/products - 200 null application/json; charset=utf-8 10.0859ms
+2026-08-16 23:19:29.707 +03:00 [INF] Request starting HTTP/1.1 GET http://localhost:8080/api/products - null null
+2026-08-16 23:19:29.710 +03:00 [INF] Executing endpoint 'MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial)'
+2026-08-16 23:19:29.711 +03:00 [INF] Route matched with {action = "GetAll", controller = "Products"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAll() on controller MyApi.Controllers.ProductsController (WebApplicationTutorial).
+2026-08-16 23:19:29.713 +03:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[WebApplicationTutorial.Models.Product, WebApplicationTutorial, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-08-16 23:19:29.714 +03:00 [INF] Executed action MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial) in 1.3756ms
+2026-08-16 23:19:29.715 +03:00 [INF] Executed endpoint 'MyApi.Controllers.ProductsController.GetAll (WebApplicationTutorial)'
+2026-08-16 23:19:29.717 +03:00 [INF] Request finished HTTP/1.1 GET http://localhost:8080/api/products - 200 null application/json; charset=utf-8 9.501ms
